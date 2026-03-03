@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+dnspython
+python-whois
+requests
+httpx
