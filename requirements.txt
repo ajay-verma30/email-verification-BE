@@ -4,3 +4,8 @@ dnspython
 python-whois
 requests
 httpx
+scikit-learn
+xgboost
+joblib
+numpy
+pandas
